@@ -52,7 +52,10 @@ def help():
             -riot-\n \
             -valorant-\n \
             -insomnia-\n \
-            -idea-\n")
+            -uni-\n\n \
+            Examples:\n \
+            `open ytd` (opens youtube, twitch and discord)\n \
+            `open -spec uni` (opens all uni tabs)")
 
 
 def run(args):
