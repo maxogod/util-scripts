@@ -10,7 +10,7 @@ def open_apps(args):
             case "t":
                 subprocess.Popen(['C://Program Files//BraveSoftware//Brave-Browser//Application//brave.exe', 'www.twitch.tv'])
             case "d":
-                subprocess.Popen(['C://Users//TAI DING//AppData//Roaming//Microsoft//Windows//Start Menu//Programs//Discord Inc//Discord.lnk'], shell=True)
+                subprocess.Popen(['C://Users//YOUR USER NAME//AppData//Roaming//Microsoft//Windows//Start Menu//Programs//Discord Inc//Discord.lnk'], shell=True)
             case "s":
                 subprocess.Popen(['C://Program Files (x86)//Steam//steam.exe'], shell=True)
             case "v":
